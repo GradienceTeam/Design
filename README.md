@@ -1,2 +1,1 @@
-# design
-Mockup
+# Design mockups for AdwCustomizer
