@@ -17,3 +17,7 @@ Ask [@AdwCustomizerTeam/Design](https://github.com/orgs/AdwCustomizerTeam/teams/
 ## V4
 
 ![](https://github.com/AdwCustomizerTeam/Design/blob/main/Mockups/Adwaita%20Manager%20V4.png)
+
+## V5
+
+![](https://github.com/AdwCustomizerTeam/Design/blob/main/Mockups/Adwaita%20Manager%20V5.png)
