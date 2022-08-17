@@ -2,7 +2,7 @@
 
 [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#AdwCustomizer:matrix.org)
 
-Ask [@GradienceTeam/Design](https://github.com/orgs/AdwCustomizerTeam/teams/design)
+Ask [@GradienceTeam/Design](https://github.com/orgs/GradienceTeam/teams/design)
 
 ## V1
 
