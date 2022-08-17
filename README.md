@@ -1,8 +1,8 @@
-# Design mockups for AdwCustomizer
+# Design Mockups for Gradience
 
 [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#AdwCustomizer:matrix.org)
 
-Ask [@AdwCustomizerTeam/Design](https://github.com/orgs/AdwCustomizerTeam/teams/design)
+Ask [@GradienceTeam/Design](https://github.com/orgs/AdwCustomizerTeam/teams/design)
 
 ## V1
 
