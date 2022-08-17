@@ -23,3 +23,7 @@ Ask [@AdwCustomizerTeam/Design](https://github.com/orgs/AdwCustomizerTeam/teams/
 ## V5
 
 ![](https://github.com/AdwCustomizerTeam/Design/blob/main/Mockups/Adwaita%20Manager%20V5.png)
+
+## V6
+
+![](https://github.com/AdwCustomizerTeam/Design/blob/main/Mockups/Adwaita%20Manager%20V6.png)
