@@ -4,6 +4,9 @@
 
 Ask [@GradienceTeam/Design](https://github.com/orgs/GradienceTeam/teams/design)
 
+<details>
+  <summary>UI Redisign Mockups</summary>
+  
 ## V1
 
 ![](https://github.com/AdwCustomizerTeam/Design/blob/main/Mockups/Adwaita%20Manager%20V1.png)
@@ -27,3 +30,5 @@ Ask [@GradienceTeam/Design](https://github.com/orgs/GradienceTeam/teams/design)
 ## V6
 
 ![](https://github.com/AdwCustomizerTeam/Design/blob/main/Mockups/Adwaita%20Manager%20V6.png)
+
+</details>
