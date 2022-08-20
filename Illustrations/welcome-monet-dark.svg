@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" style="isolation:isolate" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="clipPath5396-3">
+   <rect x="-438.46" y="195.08" width="112" height="88" rx="8" ry="8" enable-background="new" fill="#deddda" style="paint-order:normal"/>
+  </clipPath>
+  <linearGradient id="linearGradient4128-9-3" x1="1275.7" x2="281.12" y1="760" y2="760" gradientTransform="matrix(.15158 0 0 .15158 -3.0316 14.147)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#57e389" offset="0"/>
+   <stop stop-color="#62a0ea" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1117" x1="127.95" x2="91.947" y1="224.05" y2="188.05" gradientTransform="matrix(1.0476 0 0 1.0476 -21.678 .63432)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#241f31" offset="0"/>
+   <stop stop-color="#3d3846" offset="1"/>
+  </linearGradient>
+  <clipPath id="d">
+   <rect x="7.75" y="179.75" width="112.5" height="114.38" ry="56.25" fill="#3584e4" opacity=".1" stroke-width="4"/>
+  </clipPath>
+ </defs>
+ <path d="m60.56 50.708v0.28313c0 9.789 7.9356 17.725 17.725 17.725h9.0686c2.2324 0 4.0421 1.8097 4.0421 4.0421v1.6571c0 2.2324-1.8097 4.0421-4.0421 4.0421h-69.629c-9.789 0-17.725 7.9356-17.725 17.725v0.28313c0 9.789 7.9356 17.725 17.725 17.725h51.699c2.2324 0 4.0421 1.8097 4.0421 4.0421v1.0105c0 2.2324-1.8097 4.0421-4.0421 4.0421h-2.1827c-9.789 0-17.725 7.9356-17.725 17.725v0.28314c0 9.789 7.9356 17.725 17.725 17.725h90.877c9.789 0 17.725-7.9356 17.725-17.725v-0.28314c0-9.789-7.9356-17.725-17.725-17.725h-9.0201c-2.2324 0-4.0421-1.8097-4.0421-4.0421v-1.0105c0-2.2324 1.8097-4.0421 4.0421-4.0421h25.179c9.789 0 17.725-7.9356 17.725-17.725v-0.28313c-1e-5 -9.789-7.9356-17.725-17.725-17.725h-10.764c-2.6836 0-4.8592-2.1755-4.8592-4.8592v-0.02306c0-2.6836 2.1755-4.8592 4.8592-4.8592h3.6899c9.789 0 17.725-7.9356 17.725-17.725v-0.28313c-1e-5 -9.789-7.9356-17.725-17.725-17.725h-88.917c-9.789 0-17.725 7.9356-17.725 17.725z" fill="url(#linearGradient4128-9-3)" stop-color="#000000"/>
+ <g transform="matrix(.42857 0 0 .42857 277.91 21.396)" enable-background="new">
+  <rect x="-438.46" y="209.08" width="112" height="76" rx="8" ry="8" enable-background="new" fill="#303030" style="paint-order:normal"/>
+  <rect x="-438.46" y="195.08" width="112" height="88" rx="8" ry="8" enable-background="new" fill="#242424" style="paint-order:normal"/>
+  <rect x="-438.46" y="195.08" width="112" height="16" rx="0" ry="0" clip-path="url(#clipPath5396-3)" enable-background="new" fill="#303030" style="paint-order:markers stroke fill"/>
+  <circle cx="-334.46" cy="203.08" r="5" enable-background="new" fill="#454545" stroke-width="0" style="paint-order:markers stroke fill"/>
+  <path d="m-336.95 200.58h0.42776c0.10563 3e-3 0.21334 0.0536 0.28639 0.1302l1.7834 1.7838 1.7964-1.7838c0.11075-0.0959 0.18536-0.1271 0.28639-0.1302h0.41658v0.41665c0 0.1189-0.0155 0.22931-0.10413 0.31249l-1.7834 1.7838 1.7704 1.7708c0.0781 0.0781 0.117 0.18888 0.117 0.29967v0.41665h-0.41657c-0.11075 0-0.2215-0.0388-0.29922-0.11703l-1.7834-1.7838-1.7834 1.7838c-0.0781 0.0782-0.18885 0.11703-0.29922 0.11703h-0.41657v-0.41665c0-0.11079 0.0393-0.22156 0.11739-0.29967l1.7834-1.7708-1.7834-1.7838c-0.0877-0.0812-0.12707-0.19551-0.11739-0.31249z" enable-background="new" fill="#fff" stroke-width=".41661"/>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(.75 0 0 .75 91.507 6.0001)" enable-background="new">
+  <g transform="matrix(.75 0 0 .75 20.5 -127)">
+   <path d="m83.947 210.05-49.947 49.947c-4 6-2 12-8 18l6 6c6-6 14.111-3.9341 18-8l49.947-49.947z" fill="#fff" opacity=".6" style="paint-order:normal"/>
+   <path d="m38 262 46-46" fill="none" opacity=".6" stroke="#fff" stroke-linecap="round" stroke-width="8"/>
+   <path d="m38 258.88 46-46" fill="none" opacity=".6" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+   <path d="m112.08 185.33c-3.3597 4e-3 -6.5781 1.352-8.937 3.7442l-6e-3 -6e-3 -12.931 12.931-8.0829-8.0829c-1.8856-1.8856-3.7712 1e-5 -3.7712 1e-5l-5.9842 5.9842s-1.8856 1.8856-5e-6 3.7712l33.941 33.941c1.8856 1.8856 3.7712 1e-5 3.7712 1e-5l5.9842-5.9842c1.8856-1.8856 0-3.7712 0-3.7712l-8.0826-8.0826 12.931-12.931-2e-3 -2e-3c2.3919-2.3605 3.7388-5.5805 3.7403-8.941 0-6.9427-5.6281-12.571-12.571-12.571z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" fill="url(#linearGradient1117)" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  </g>
+  <circle cx="103" cy="18" r="3" fill="#fff" fill-opacity=".27559" style="paint-order:normal"/>
+ </g>
+ <g transform="matrix(.64 0 0 .64 10.04 -100.04)" clip-path="url(#d)" stroke-width=".938">
+  <path d="m115.96 206a60 60 0 0 1 0 60l-51.962-30z" fill="#3584e4"/>
+  <path d="m115.96 266a60 60 0 0 1-51.962 30v-60z" fill="#a347ba"/>
+  <path d="m64 176a60 60 0 0 1 51.962 30l-51.962 30z" fill="#33d17a"/>
+  <path d="m12.038 206a60 60 0 0 1 51.962-30v60z" fill="#f6d32d"/>
+  <path d="m12.038 266a60 60 0 0 1 0-60l51.962 30z" fill="#ff7800"/>
+  <path d="m64 296a60 60 0 0 1-51.962-30l51.962-30z" fill="#ed333b"/>
+ </g>
+ <path d="m252.45 45.89a36 36 0 0 0-0.0294 0.6036 36 36 0 0 0 36 36 36 36 0 0 0 36-36 36 36 0 0 0-0.021-0.6036 36 36 0 0 1-35.979 35.403 36 36 0 0 1-35.97-35.403z" opacity=".2" stroke-width=".6"/>
+</svg>
