@@ -5,7 +5,7 @@
    viewBox="0 0 2520.0002 1759.9998"
    version="1.1"
    id="svg8"
-   sodipodi:docname="Gradience - Preset Manager V3.svg"
+   sodipodi:docname="Gradience - Preset Manager V2.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    inkscape:export-filename="/home/tobias/Design/app-mockups/todo/todo.png"
    inkscape:export-xdpi="96"
@@ -519,12 +519,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23283774"
-     inkscape:cx="1294.8932"
-     inkscape:cy="596.98226"
+     inkscape:zoom="0.61014085"
+     inkscape:cx="1561.9344"
+     inkscape:cy="966.98984"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:pagecheckerboard="false"
      inkscape:window-width="1280"
@@ -921,7 +921,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3127.3208,1744.9982)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7839">Adwaita</tspan></text>
+         id="tspan1289">Adwaita</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -931,7 +931,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3127.3208,1795.9983)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7841">Adwaita Dark</tspan></text>
+         id="tspan1291">Adwaita Dark</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -941,7 +941,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3127.3208,1846.9986)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7843">Pretty Purple</tspan></text>
+         id="tspan1293">Pretty Purple</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 4005.8156,2606.9001 H 3586.7934"
@@ -970,9 +970,9 @@
        transform="matrix(3.7795277,0,0,3.7795277,2058.7925,1495.3959)"><tspan
          x="404.27966"
          y="337.96765"
-         id="tspan7847">See <tspan
+         id="tspan1297">See <tspan
    style="fill:#99c1f1"
-   id="tspan7845">GradienceTeam/Community</tspan> on GitHub for more presets</tspan></text>
+   id="tspan1295">GradienceTeam/Community</tspan> on GitHub for more presets</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1004,7 +1004,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3127.3206,1990.5133)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7849">Solarized</tspan></text>
+         id="tspan1299">Solarized</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1342,7 +1342,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3767.3208,1859.5132)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7851">Pretty Purple</tspan></text>
+         id="tspan1301">Pretty Purple</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1352,7 +1352,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3767.3208,1910.5133)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7853">Builder Light</tspan></text>
+         id="tspan1303">Builder Light</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1362,7 +1362,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3767.3208,1961.5136)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7855">Builder Dark</tspan></text>
+         id="tspan1305">Builder Dark</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 4645.8156,2721.4151 H 4226.7934"
@@ -1423,9 +1423,9 @@
        transform="matrix(3.7795277,0,0,3.7795277,2711.9476,1309.5428)"><tspan
          x="455.94534"
          y="337.96765"
-         id="tspan7859">Enter a keyword to search on <tspan
+         id="tspan1309">Enter a keyword to search on <tspan
    style="fill:#99c1f1"
-   id="tspan7857">GradienceTeam/Community</tspan></tspan></text>
+   id="tspan1307">GradienceTeam/Community</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1460,7 +1460,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,2730.8076,1359.3962)"><tspan
          x="404.27966"
          y="337.96765"
-         id="tspan7861">e.g. &quot;Pretty Purple&quot;</tspan></text>
+         id="tspan1311">e.g. &quot;Pretty Purple&quot;</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1764,7 +1764,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3294.3208,1005.3452)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7863">Pretty Purple</tspan></text>
+         id="tspan1313">Pretty Purple</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 4172.8156,1867.2471 H 3753.7934"
@@ -1799,9 +1799,9 @@
        transform="matrix(3.7795277,0,0,3.7795277,2238.9476,455.37483)"><tspan
          x="455.94534"
          y="337.96765"
-         id="tspan7867">Enter a keyword to search on <tspan
+         id="tspan1317">Enter a keyword to search on <tspan
    style="fill:#99c1f1"
-   id="tspan7865">GradienceTeam/Community</tspan></tspan></text>
+   id="tspan1315">GradienceTeam/Community</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1836,7 +1836,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,2257.8076,505.22823)"><tspan
          x="404.27966"
          y="337.96765"
-         id="tspan7869">e.g. &quot;Pretty Purple&quot;</tspan></text>
+         id="tspan1319">e.g. &quot;Pretty Purple&quot;</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1866,7 +1866,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3294.3208,1051.3452)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7871">Description</tspan></text>
+         id="tspan1321">Description</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1876,11 +1876,11 @@
        transform="matrix(3.7795277,0,0,3.7795277,3381.2512,1051.3452)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7873">Pretty Purple is a pretty and pleasant to eye
+         id="tspan1323">Pretty Purple is a pretty and pleasant to eye
 </tspan><tspan
          x="127.05161"
          y="228.4684"
-         id="tspan7875">Theme that uses official GNOME HIG colors.</tspan></text>
+         id="tspan1325">Theme that uses official GNOME HIG colors.</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 4172.8156,1951.2471 H 3753.7934"
@@ -1894,7 +1894,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,3294.3208,1133.3452)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7877">Author: @ArtyIF</tspan></text>
+         id="tspan1327">Author: @ArtyIF</tspan></text>
     <ellipse
        style="fill:#3d3846;fill-opacity:1;stroke:#3d3846;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path15792"
@@ -2194,7 +2194,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,1594.3206,1789.2632)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7879">Pretty Purple</tspan></text>
+         id="tspan1329">Pretty Purple</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2204,7 +2204,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,1594.3206,1840.2633)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7881">Builder Light</tspan></text>
+         id="tspan1331">Builder Light</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2214,7 +2214,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,1594.3206,1891.2636)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7883">Builder Dark</tspan></text>
+         id="tspan1333">Builder Dark</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 2472.8154,2651.1651 H 2053.7932"
@@ -2242,9 +2242,9 @@
        transform="matrix(3.7795277,0,0,3.7795277,538.94739,1239.2928)"><tspan
          x="455.94534"
          y="337.96765"
-         id="tspan7887">Enter a keyword to search on <tspan
+         id="tspan1337">Enter a keyword to search on <tspan
    style="fill:#99c1f1"
-   id="tspan7885">GradienceTeam/Community</tspan></tspan></text>
+   id="tspan1335">GradienceTeam/Community</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -2279,7 +2279,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,557.80749,1289.7207)"><tspan
          x="404.27966"
          y="337.96765"
-         id="tspan7889">e.g. &quot;Pretty Purple&quot;</tspan></text>
+         id="tspan1339">e.g. &quot;Pretty Purple&quot;</tspan></text>
     <path
        d="m 2413.2336,2620.4227 -1,-1 -7.4687,7.5156 -3.4141,-3.4766 -2,2 5.4141,5.4766 9.4687,-9.5156 z m 0,0"
        fill="#222222"
@@ -2564,7 +2564,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,954.3206,1674.7482)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7891">Adwaita</tspan></text>
+         id="tspan1341">Adwaita</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2574,7 +2574,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,954.3206,1725.7483)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7893">Adwaita Dark</tspan></text>
+         id="tspan1343">Adwaita Dark</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2584,7 +2584,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,954.3206,1776.7486)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7895">Pretty Purple</tspan></text>
+         id="tspan1345">Pretty Purple</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 1832.8154,2536.6501 H 1413.7932"
@@ -2613,9 +2613,9 @@
        transform="matrix(3.7795277,0,0,3.7795277,-114.20767,1425.1459)"><tspan
          x="404.27966"
          y="337.96765"
-         id="tspan7899">See <tspan
+         id="tspan1349">See <tspan
    style="fill:#99c1f1"
-   id="tspan7897">GradienceTeam/Community</tspan> on GitHub for more presets</tspan></text>
+   id="tspan1347">GradienceTeam/Community</tspan> on GitHub for more presets</tspan></text>
     <path
        d="m 1814.2337,2505.9077 -1,-1 -7.4687,7.5156 -3.4141,-3.4766 -2,2 5.4141,5.4766 9.4687,-9.5156 z m 0,0"
        fill="#222222"
@@ -2662,7 +2662,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,955.3205,1920.2636)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7901">Pretty Purple</tspan></text>
+         id="tspan1351">Pretty Purple</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 1833.8153,2782.1655 H 1414.7931"
@@ -2681,7 +2681,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,955.3205,1966.2636)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7903">Description</tspan></text>
+         id="tspan1353">Description</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:98.0628;display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2691,11 +2691,11 @@
        transform="matrix(3.7795277,0,0,3.7795277,1042.2509,1966.2636)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7905">Pretty Purple is a pretty and pleasant to eye
+         id="tspan1355">Pretty Purple is a pretty and pleasant to eye
 </tspan><tspan
          x="127.05161"
          y="228.4684"
-         id="tspan7907">Theme that uses official GNOME HIG colors.</tspan></text>
+         id="tspan1357">Theme that uses official GNOME HIG colors.</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 1833.8153,2866.1655 H 1414.7931"
@@ -2709,7 +2709,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,955.3205,2048.2636)"><tspan
          x="127.05161"
          y="222.84158"
-         id="tspan7909">By @ArtyIF</tspan></text>
+         id="tspan1359">By @ArtyIF</tspan></text>
     <ellipse
        style="fill:#3d3846;fill-opacity:1;stroke:#3d3846;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path15792-4"
@@ -2788,7 +2788,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,867.8075,1289.7207)"><tspan
          x="410.34302"
          y="337.96765"
-         id="tspan7911">Official</tspan></text>
+         id="tspan1361">Official</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -2820,7 +2820,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,1070.0678,1329.2928)"><tspan
          x="410.34302"
          y="337.96765"
-         id="tspan7913">Official</tspan></text>
+         id="tspan1363">Official</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:109.999;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2830,7 +2830,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,1070.6031,1354.1462)"><tspan
          x="410.34302"
          y="337.96765"
-         id="tspan7915">Curated</tspan></text>
+         id="tspan1365">Curated</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.45;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:109.999;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2840,7 +2840,7 @@
        transform="matrix(3.7795277,0,0,3.7795277,1070.3758,1378.6182)"><tspan
          x="410.34302"
          y="337.96765"
-         id="tspan7917">Custom repo</tspan></text>
+         id="tspan1367">Custom repo</tspan></text>
     <path
        style="fill:none;stroke:#ebebeb;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1608.2922,2897.9156 v -20"
@@ -2872,7 +2872,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect19099);display:inline;fill:#241f31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="2102.2526"
          y="1338.1709"
-         id="tspan7919">Repo switcher</tspan></text>
+         id="tspan1369">Repo switcher</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#9a9996;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 1760.7922,2955.9156 v 133.0413 h 41.9997"
@@ -2885,21 +2885,21 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect18394);display:inline;fill:#241f31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="2057.5194"
          y="1338.1709"
-         id="tspan7921">Selected color are indicated </tspan><tspan
+         id="tspan1371">Selected color are indicated </tspan><tspan
          x="2096.342"
          y="1356.5043"
-         id="tspan7923">using white dot.
+         id="tspan1373">using white dot.
 </tspan><tspan
          x="2150"
          y="1374.8376"
-         id="tspan7925">
+         id="tspan1375">
 </tspan><tspan
          x="2044.664"
          y="1393.171"
-         id="tspan7927">Color indicators looks the same </tspan><tspan
+         id="tspan1377">Color indicators looks the same </tspan><tspan
          x="2077.3194"
          y="1411.5044"
-         id="tspan7929">as selectors in &quot;rows&quot;</tspan></text>
+         id="tspan1379">as selectors in &quot;rows&quot;</tspan></text>
     <rect
        style="opacity:0.4;fill:#c061cb;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
        id="rect3042"
@@ -2916,7 +2916,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect3652);display:inline;opacity:1;fill:#613583;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
          x="1959.7066"
          y="849.57883"
-         id="tspan7931">Favorite</tspan></text>
+         id="tspan1381">Favorite</tspan></text>
     <rect
        style="opacity:0.4;fill:#f6d32d;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
        id="rect3722"
@@ -2933,7 +2933,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect3728);display:inline;opacity:1;fill:#e5a50a;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
          x="1952.4537"
          y="849.57883"
-         id="tspan7933">Editors Choise</tspan></text>
+         id="tspan1383">Editors Choise</tspan></text>
     <path
        d="m 1731.986,2749.0965 c -0.5781,0.01 -1.168,0.2305 -1.6914,0.7539 l -9,9 c -0.375,0.375 -0.5859,0.8829 -0.5859,1.4141 v 3 h 3 c 0.5312,0 1.039,-0.2109 1.414,-0.5859 l 9,-9 c 1.7891,-1.7891 0.082,-4.3907 -1.8906,-4.5703 -0.082,-0.012 -0.1641,-0.012 -0.2461,-0.012 z m -1.7773,3.6055 1.0625,1.0625 -7.0625,7.0625 -1.0625,-1.0625 z m 0,0"
        fill="#2e3436"
@@ -2963,140 +2963,144 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5194);display:inline;opacity:1;fill:#1a5fb4;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
          x="1963.0347"
          y="849.57883"
-         id="tspan7935">Classic</tspan></text>
-    <rect
-       style="opacity:0.4;fill:#c061cb;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
-       id="rect5204"
-       width="59.999821"
-       height="19.999928"
-       x="2092.7922"
-       y="2835.9155"
-       rx="9.9999638"
-       ry="9.9999638" />
+         id="tspan1385">Classic</tspan></text>
+    <g
+       id="g741"
+       transform="translate(-1.500202)">
+      <rect
+         style="opacity:0.4;fill:#c061cb;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
+         id="rect5204"
+         width="59.999821"
+         height="19.999928"
+         x="2106.7922"
+         y="2835.9155"
+         rx="9.9999638"
+         ry="9.9999638" />
+      <text
+         xml:space="preserve"
+         transform="translate(156.58947,2000.1927)"
+         id="text5208"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5222);display:inline;opacity:1;fill:#613583;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
+           x="1959.7066"
+           y="849.57883"
+           id="tspan1387">Favorite</tspan></text>
+      <rect
+         style="opacity:0.4;fill:#f6d32d;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
+         id="rect5210"
+         width="90.000313"
+         height="20"
+         x="2011.7922"
+         y="2835.9155"
+         rx="9.9999638"
+         ry="9.9999638" />
+      <text
+         xml:space="preserve"
+         transform="translate(68.47443,1999.9847)"
+         id="text5214"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5224);display:inline;opacity:1;fill:#e5a50a;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
+           x="1952.4537"
+           y="849.57883"
+           id="tspan1389">Editors Choise</tspan></text>
+      <rect
+         style="opacity:0.4;fill:#3584e4;stroke:none;stroke-width:1.82575;stroke-dasharray:5.47724, 5.47724;paint-order:stroke fill markers"
+         id="rect5216"
+         width="50.000156"
+         height="19.999928"
+         x="2171.7922"
+         y="2835.9155"
+         rx="9.9999638"
+         ry="9.9999638" />
+      <text
+         xml:space="preserve"
+         transform="translate(216.71232,2000.2247)"
+         id="text5220"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5226);display:inline;opacity:1;fill:#1a5fb4;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
+           x="1963.0347"
+           y="849.57883"
+           id="tspan1391">Classic</tspan></text>
+      <rect
+         style="opacity:0.4;fill:#ff7800;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
+         id="rect5228"
+         width="59.999821"
+         height="19.999928"
+         x="2226.7922"
+         y="2835.9155"
+         rx="9.9999638"
+         ry="9.9999638" />
+      <text
+         xml:space="preserve"
+         transform="translate(276.38141,1999.1207)"
+         id="text5232"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5234);display:inline;opacity:1;fill:#c64600;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
+           x="1960.8533"
+           y="849.57883"
+           id="tspan1393">Popular</tspan></text>
+      <rect
+         style="opacity:0.4;fill:#e01b24;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
+         id="rect5338"
+         width="39.999935"
+         height="20"
+         x="2291.7922"
+         y="2835.9155"
+         rx="10"
+         ry="10" />
+      <text
+         xml:space="preserve"
+         transform="translate(331.3868,1999.9847)"
+         id="text5342"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5344);display:inline;opacity:1;fill:#a51d2d;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
+           x="1968.6826"
+           y="849.57883"
+           id="tspan1395">New</tspan></text>
+      <rect
+         style="opacity:0.4;fill:#9a9996;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
+         id="rect6221"
+         width="84.999931"
+         height="20"
+         x="2336.7922"
+         y="2835.9155"
+         rx="9.9999638"
+         ry="9.9999638" />
+      <text
+         xml:space="preserve"
+         transform="translate(391.23836,2000.0327)"
+         id="text6225"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect6227);display:inline;opacity:1;fill:#9a9996;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
+           x="1955.0137"
+           y="849.57883"
+           id="tspan1397">Low Contrast</tspan></text>
+      <rect
+         style="opacity:0.4;fill:#000000;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
+         id="rect6229"
+         width="89.999931"
+         height="20"
+         x="2426.7922"
+         y="2835.9155"
+         rx="9.9999638"
+         ry="9.9999638" />
+      <text
+         xml:space="preserve"
+         transform="translate(483.7383,1999.0514)"
+         id="text6233"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect6235);display:inline;opacity:1;fill:#3d3846;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
+           x="1953.6911"
+           y="849.57883"
+           id="tspan1399">High Contrast</tspan></text>
+    </g>
     <text
        xml:space="preserve"
-       transform="translate(142.58947,2000.1927)"
-       id="text5208"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5222);display:inline;opacity:1;fill:#613583;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
-         x="1959.7066"
-         y="849.57883"
-         id="tspan7937">Favorite</tspan></text>
-    <rect
-       style="opacity:0.4;fill:#f6d32d;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
-       id="rect5210"
-       width="90.000313"
-       height="20"
-       x="1997.7922"
-       y="2835.9155"
-       rx="9.9999638"
-       ry="9.9999638" />
-    <text
-       xml:space="preserve"
-       transform="translate(54.47443,1999.9847)"
-       id="text5214"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5224);display:inline;opacity:1;fill:#e5a50a;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
-         x="1952.4537"
-         y="849.57883"
-         id="tspan7939">Editors Choise</tspan></text>
-    <rect
-       style="opacity:0.4;fill:#3584e4;stroke:none;stroke-width:1.82575;stroke-dasharray:5.47724, 5.47724;paint-order:stroke fill markers"
-       id="rect5216"
-       width="50.000156"
-       height="19.999928"
-       x="2157.7922"
-       y="2835.9155"
-       rx="9.9999638"
-       ry="9.9999638" />
-    <text
-       xml:space="preserve"
-       transform="translate(202.71232,2000.2247)"
-       id="text5220"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5226);display:inline;opacity:1;fill:#1a5fb4;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
-         x="1963.0347"
-         y="849.57883"
-         id="tspan7941">Classic</tspan></text>
-    <rect
-       style="opacity:0.4;fill:#ff7800;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
-       id="rect5228"
-       width="59.999821"
-       height="19.999928"
-       x="2212.7922"
-       y="2835.9155"
-       rx="9.9999638"
-       ry="9.9999638" />
-    <text
-       xml:space="preserve"
-       transform="translate(262.38141,1999.1207)"
-       id="text5232"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5234);display:inline;opacity:1;fill:#c64600;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
-         x="1960.8533"
-         y="849.57883"
-         id="tspan7943">Popular</tspan></text>
-    <rect
-       style="opacity:0.4;fill:#e01b24;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
-       id="rect5338"
-       width="39.999935"
-       height="20"
-       x="2277.7922"
-       y="2835.9155"
-       rx="10"
-       ry="10" />
-    <text
-       xml:space="preserve"
-       transform="translate(317.3868,1999.9847)"
-       id="text5342"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect5344);display:inline;opacity:1;fill:#a51d2d;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
-         x="1968.6826"
-         y="849.57883"
-         id="tspan7945">New</tspan></text>
-    <rect
-       style="opacity:0.4;fill:#9a9996;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
-       id="rect6221"
-       width="84.999931"
-       height="20"
-       x="2322.7922"
-       y="2835.9155"
-       rx="9.9999638"
-       ry="9.9999638" />
-    <text
-       xml:space="preserve"
-       transform="translate(377.23836,2000.0327)"
-       id="text6225"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect6227);display:inline;opacity:1;fill:#9a9996;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
-         x="1955.0137"
-         y="849.57883"
-         id="tspan7947">Low Contrast</tspan></text>
-    <rect
-       style="opacity:0.4;fill:#000000;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
-       id="rect6229"
-       width="89.999931"
-       height="20"
-       x="2412.7922"
-       y="2835.9155"
-       rx="9.9999638"
-       ry="9.9999638" />
-    <text
-       xml:space="preserve"
-       transform="translate(469.7383,1999.0514)"
-       id="text6233"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect6235);display:inline;opacity:1;fill:#3d3846;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
-         x="1953.6911"
-         y="849.57883"
-         id="tspan7949">High Contrast</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="translate(155.74955,1775.9158)"
+       transform="translate(160.74955,1775.9158)"
        id="text6398"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect6400);display:inline;opacity:0.991887;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
          x="2372.0533"
          y="1069.5788"
-         id="tspan7951">And more, new tags can </tspan><tspan
+         id="tspan1401">And more, new tags can </tspan><tspan
          x="2377.456"
          y="1082.9122"
-         id="tspan7953">be added without app </tspan><tspan
+         id="tspan1403">be added without app </tspan><tspan
          x="2412.9973"
          y="1096.2456"
-         id="tspan7955">update</tspan></text>
+         id="tspan1405">update</tspan></text>
     <rect
        style="opacity:0.4;fill:#3584e4;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"
        id="rect7226"
@@ -3113,7 +3117,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect7232);display:inline;opacity:1;fill:#1a5fb4;stroke:none;stroke-width:2;stroke-dasharray:6, 6;paint-order:stroke fill markers"><tspan
          x="1963.0347"
          y="849.57883"
-         id="tspan7957">Classic</tspan></text>
+         id="tspan1407">Classic</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#9a9996;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 1953.7919,2891.9569 v -133.0413 h -41.9997"
@@ -3126,9 +3130,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;white-space:pre;shape-inside:url(#rect7248);display:inline;fill:#241f31;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="2043.8427"
          y="1338.1709"
-         id="tspan7959">&quot;Starred&quot; presets will be shown </tspan><tspan
+         id="tspan1409">&quot;Starred&quot; presets will be shown </tspan><tspan
          x="2063.826"
          y="1356.5043"
-         id="tspan7961">in &quot;preset quick switcher&quot;</tspan></text>
+         id="tspan1411">in &quot;preset quick switcher&quot;</tspan></text>
   </g>
 </svg>
