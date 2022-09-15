@@ -12,7 +12,7 @@ makedepends=('git')
 sha256sums=('SKIP')
 
 package() {
-    cd "$srcdir/$pkgname/Backgrounds"
+    cd "$srcdir/Design/Backgrounds"
 
     find . \
         -type f \
