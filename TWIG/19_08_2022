@@ -1,6 +1,0 @@
-TWIG-Bot: This week, [Gradience](https://github.com/GradienceTeam/Gradience) (Adwaita Manager) have some improvements
-
-- Project was renamed to "[Gradience](https://github.com/GradienceTeam/Gradience)" to remove any confusion with official GNOME app.
-- Monet [engine](https://github.com/avanishsubbiah/material-color-utilities-python) performance improved (2 sec in v0.2.0 and 2.5 minutes in v0.1.0)
-- Fixed invisible text in "cards" when Monet palette was applied
-- Small UI improvements
