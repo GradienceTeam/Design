@@ -76,4 +76,4 @@ Gradience Team are happy to announce new version of Gradience - 0.3.0, this vers
 - Translation updates
 - Added aarch64 builds
 
-###### P.S. Currently it sounds too "Advanced", it need to be more user friendly, there is no problem if you remove some of the features, as this is not changelog, this is just a small announcement.
+###### Currently it sounds too "Advanced", it need to be more user friendly, there is no problem if you remove some of the features, as this is not changelog, this is just a small announcement.
