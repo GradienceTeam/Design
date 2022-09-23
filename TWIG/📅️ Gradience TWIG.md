@@ -60,7 +60,7 @@ You can download Gradience v0.3.0 from [Flathub](https://flathub.org/apps/detail
 
 ## Announce #5 (Alt)
 
-Gradience Team are happy to announce new version of Gradience - 0.3.0, this version is result of a month of hard work. This release introduces many new features and improvements.
+Gradience Team is happy to announce new version of Gradience - 0.3.0, this version is result of a month of hard work. This release introduces many new features and improvements.
 
 - Added plugins support, this allows creating plugins for customizing other apps
 - Preset Manager performance are significantly enhanced, presets are downloading much faster and app don't freeze on preset removal
