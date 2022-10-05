@@ -76,4 +76,17 @@ Gradience Team is happy to announce new version of Gradience - 0.3.0, this versi
 - Translation updates
 - Added aarch64 builds
 
-###### Currently it sounds too "Advanced", it need to be more user friendly, there is no problem if you remove some of the features, as this is not changelog, this is just a small announcement. @Daudix UFO
+###### Currently it sounds too "Advanced", it need to be more user friendly, there is no problem if you remove some of the features, as this is not changelog, this is just a small announcement. @daudix-UFO
+
+## Announce #6
+
+This week, Gradience gained some UI polish, usability and under-hood improvements, some of them:
+
+- Updated to GNOME Runtime 43
+- Switch from aiohttp to Libsoup3
+- Compilation app from source now faster
+- Preset Manager now opens immediately
+- "Log Out" message after applying theme
+- Improved UI of Preset Manager, remove preset button moved to collapsible section as well as badges, added ability to star presets, explore tab now able to show only presets from selected repositories and some other improvements
+- All contributors now listed in "About" window, **let us know if you are not listed**
+- A lot of text improvements, now it follows GNOME Writing Guidelines
