@@ -90,3 +90,4 @@ This week, Gradience gained some UI polish, usability and under-hood improvement
 - Improved UI of Preset Manager, remove preset button moved to collapsible section as well as badges, added ability to star presets, explore tab now able to show only presets from selected repositories and some other improvements
 - All contributors now listed in "About" window, **let us know if you are not listed**
 - A lot of text improvements, now it follows GNOME Writing Guidelines
+- Fixed flatpak theme override
