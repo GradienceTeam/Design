@@ -92,4 +92,4 @@ This week, Gradience gained some UI polish, usability and under-hood improvement
 - Fixed flatpak theming
 - Added repo template for user preset sharing
 
-This changes will be available in version 0.3.1 that will release very soon.
+This changes will be available in version 0.3.1 that will be available on [Flathub](https://beta.flathub.org/apps/details/com.github.GradienceTeam.Gradience) very soon.
