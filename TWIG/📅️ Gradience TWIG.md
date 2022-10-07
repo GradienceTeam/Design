@@ -85,9 +85,11 @@ This week, Gradience gained some UI polish, usability and under-hood improvement
 - Preset Manager now opens immediately
 - "Log Out" message after applying theme
 - Improved UI of Preset Manager
-	- Now presets can be starred
-	- Added preset repo switcher with which you can display only presets from specific repo
+    - Now presets can be starred
+    - Added preset repo switcher with which you can display only presets from specific repo
 - All contributors now listed in "About" window, **let us know if you are not listed**
 - Text now follows GNOME Writing Guidelines
 - Fixed flatpak theming
 - Added repo template for user preset sharing
+
+This changes will be available in version 0.3.1 that will release very soon.
