@@ -5,8 +5,8 @@
    width="128px"
    version="1.1"
    id="svg856"
-   sodipodi:docname="logo-alt.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -284,11 +284,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="3.9375"
-     inkscape:cx="63.873016"
+     inkscape:zoom="2"
+     inkscape:cx="23"
      inkscape:cy="64"
-     inkscape:window-width="1280"
-     inkscape:window-height="731"
+     inkscape:window-width="1680"
+     inkscape:window-height="985"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -537,18 +537,10 @@
        stop-color="#865e3c"
        id="stop787" />
   </linearGradient>
-  <rect
-     style="fill:#ffffff;stroke-width:3.47717;stroke-linecap:round;stroke-linejoin:round"
-     id="rect1428"
-     width="128"
-     height="128"
-     x="0"
-     y="0"
-     sodipodi:insensitive="true" />
   <g
      style="display:inline;enable-background:new"
      id="g1064-2"
-     transform="translate(446.45794,-176.07726)"
+     transform="translate(446.45795,-181.07724)"
      inkscape:label="window">
     <rect
        ry="8"
@@ -597,7 +589,7 @@
   </g>
   <g
      id="g13237"
-     transform="matrix(1.6428572,0.6428571,0.64285715,1.6428571,-196.53033,-377.52972)"
+     transform="matrix(1.6428572,0.6428571,0.64285715,1.6428571,-196.53032,-382.5297)"
      style="display:inline;opacity:0.7;enable-background:new"
      inkscape:label="Color">
     <path
@@ -628,7 +620,7 @@
   <g
      id="g11749"
      style="display:inline;enable-background:new"
-     transform="rotate(-45,69.260779,671.90813)">
+     transform="rotate(-45,63.225268,669.40813)">
     <g
        id="g11727">
       <rect
