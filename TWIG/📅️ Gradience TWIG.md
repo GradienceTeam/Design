@@ -93,3 +93,16 @@ This week, Gradience gained some UI polish, usability and under-hood improvement
 - Added repo template for user preset sharing
 
 This changes will be available in version 0.3.1 that will be available on [Flathub](https://beta.flathub.org/apps/details/com.github.GradienceTeam.Gradience) very soon.
+
+## Announce #7
+
+Gradience 0.3.2 is almost ready for release, this version will fix some major issues and will introduce some under-the-hood improvements, as well as some new features, some of them:
+
+- Issues with [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme) plugin under Flatpak are fixed
+- CSS now loads correctly on next launch after applying preset
+- Fixed issue when presets always saved as `User.json`
+- Various typos were fixed
+- README was fully rewritten
+- All screenshots were taken in high resolution
+- New and updated translations
+- Internal structure was refactored
