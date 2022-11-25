@@ -101,6 +101,7 @@ Gradience 0.3.2 is out! This version fixes some major issues and introduces some
 - Issues with the [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme) plugin under Flatpak are fixed
 - CSS now loads correctly after applying a preset
 - Fixed an issue with presets always being saved as `User.json`
+- Presets are now removed correctly
 - The internal structure was refactored
 - Various typos were fixed
 - The README was fully rewritten
