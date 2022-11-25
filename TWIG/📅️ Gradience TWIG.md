@@ -96,7 +96,7 @@ This changes will be available in version 0.3.1 that will be available on [Flath
 
 ## Announce #7
 
-Gradience 0.3.2 is out! This version fixes some major issues and introduces some under-the-hood improvements, as well as some new features, some of them are:
+Gradience [0.3.2](https://github.com/GradienceTeam/Gradience/releases/tag/0.3.2) is out! This version fixes some major issues and introduces some under-the-hood improvements, as well as some new features, some of them are:
 
 - Issues with the [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme) plugin under Flatpak are fixed
 - CSS now loads correctly after applying a preset
