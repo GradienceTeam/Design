@@ -791,11 +791,11 @@
      y="0"><tspan
        x="1085.7694"
        y="2882.6164"
-       id="tspan28791">Why Gradience is a
+       id="tspan29775">Why Gradience is a
 </tspan><tspan
        x="1739.2843"
        y="3153.5151"
-       id="tspan28793">Hack?</tspan></text></mask><mask
+       id="tspan29777">Hack?</tspan></text></mask><mask
    maskUnits="userSpaceOnUse"
    id="mask5504"><text
      xml:space="preserve"
@@ -808,11 +808,11 @@
      mask="none"><tspan
        x="1085.7694"
        y="2882.6164"
-       id="tspan28795">Why Gradience is a
+       id="tspan29779">Why Gradience is a
 </tspan><tspan
        x="1739.2843"
        y="3153.5151"
-       id="tspan28797">Hack?</tspan></text></mask><clipPath
+       id="tspan29781">Hack?</tspan></text></mask><clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath7191"><rect
      ry="8"
@@ -3303,12 +3303,12 @@
    inkscape:collect="always"
    style="color-interpolation-filters:sRGB"
    id="filter20663"
-   x="-0.020619142"
-   y="-0.039099996"
-   width="1.0412383"
-   height="1.0782"><feGaussianBlur
+   x="-0.009164063"
+   y="-0.017377776"
+   width="1.0183281"
+   height="1.0347556"><feGaussianBlur
      inkscape:collect="always"
-     stdDeviation="1.7931694"
+     stdDeviation="0.79696417"
      id="feGaussianBlur20665" /></filter></defs><image
      width="208.71899"
      height="110.06667"
@@ -3340,7 +3340,7 @@
      inkscape:label="&quot;unique&quot;"><tspan
        x="217.54005"
        y="21.552301"
-       id="tspan28799">unique</tspan></text><rect
+       id="tspan29783">unique</tspan></text><rect
      style="fill:#241f31;stroke-width:0.0336021;paint-order:stroke fill markers"
      id="rect872"
      width="135.46667"
@@ -3356,7 +3356,7 @@
      inkscape:label="Gradience Team"><tspan
        x="1650.1714"
        y="2752.8722"
-       id="tspan28801">© 2022 Gradience Team</tspan></text><text
+       id="tspan29785">© 2022 Gradience Team</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.0390674,0,0,0.0390674,-12.246718,309.31729)"
      id="text9762"
@@ -3366,7 +3366,7 @@
      inkscape:label="License"><tspan
        x="1560.4137"
        y="2752.8722"
-       id="tspan28803">Creative Commons CC-BY-SA </tspan></text><text
+       id="tspan29787">Creative Commons CC-BY-SA </tspan></text><text
      xml:space="preserve"
      transform="scale(0.26458333)"
      id="text740"
@@ -3395,14 +3395,14 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';white-space:pre;shape-inside:url(#rect2770);display:inline;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="36"
        y="30.368201"
-       id="tspan28805">Gradience</tspan></text><text
+       id="tspan29789">Gradience</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,31.707667,-0.14398642)"
      id="text3669"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:Cantarell;white-space:pre;shape-inside:url(#rect3671);display:inline;fill:#deddda;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="36"
        y="30.368201"
-       id="tspan28807">Themes</tspan></text><text
+       id="tspan29791">Themes</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.12064726,34.444437)"
      id="text4451"
@@ -3412,9 +3412,9 @@
      inkscape:label="&quot;Make your desktop&quot;"><tspan
        x="148.55222"
        y="21.552301"
-       id="tspan28811"><tspan
+       id="tspan29795"><tspan
          style="fill:#ffffff"
-         id="tspan28809">Make your desktop</tspan></tspan></text><text
+         id="tspan29793">Make your desktop</tspan></tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.00317105,60.927073)"
      id="text4914"
@@ -3424,7 +3424,7 @@
      inkscape:label="&quot;Change the look of Adwaita, with ease&quot;"><tspan
        x="151.81023"
        y="10.776151"
-       id="tspan28813">Change the look of Adwaita, with ease</tspan></text><g
+       id="tspan29797">Change the look of Adwaita, with ease</tspan></text><g
      id="g8269"
      transform="translate(43.391665,15.875)"
      inkscape:label="&quot;Get Gradience&quot; button"><rect
@@ -3444,7 +3444,7 @@
        y="0"><tspan
          x="54.268905"
          y="264.009"
-         id="tspan28815">Get Gradience</tspan></text></g><g
+         id="tspan29799">Get Gradience</tspan></text></g><g
      id="g8264"
      transform="translate(7.9375072,30.162502)"
      inkscape:label="&quot;Explore themes&quot; button"><rect
@@ -3464,7 +3464,7 @@
        y="0"><tspan
          x="50.961662"
          y="264.009"
-         id="tspan28817">Explore themes</tspan></text><path
+         id="tspan29801">Explore themes</tspan></text><path
        id="path6716"
        style="fill:#f9f06b;stroke-width:0.132277"
        d="m 71.966596,61.912833 c -0.03385,0 -0.0677,0.01292 -0.09353,0.03876 -0.05169,0.05168 -0.05169,0.135371 0,0.18704 l 0.700165,0.700104 h -1.532614 c -0.07286,0 -0.132282,0.05942 -0.132282,0.132271 0,0.07285 0.05942,0.13227 0.132282,0.13227 h 1.532614 l -0.700165,0.700106 c -0.05169,0.05167 -0.05169,0.135371 0,0.187039 0.05167,0.05168 0.135383,0.05168 0.187055,0 l 0.921326,-0.921504 c 0.0016,-0.0014 0.0032,-0.0029 0.0047,-0.0044 0.0015,-0.0015 0.003,-0.0031 0.0044,-0.0047 8.1e-5,-8.9e-5 1.78e-4,-1.69e-4 2.59e-4,-2.58e-4 0.0014,-0.0015 0.0026,-0.0031 0.0039,-0.0047 1.57e-4,-1.9e-4 3.61e-4,-3.26e-4 5.17e-4,-5.17e-4 0.0012,-0.0014 0.0022,-0.0029 0.0034,-0.0044 0.0026,-0.0034 0.005,-0.007 0.0072,-0.01059 2.66e-4,-4.38e-4 5.13e-4,-8.5e-4 7.75e-4,-0.0013 8.13e-4,-0.0014 0.0016,-0.0027 0.0023,-0.0041 2.79e-4,-5.11e-4 5.04e-4,-0.001 7.75e-4,-0.0016 7.21e-4,-0.0014 0.0014,-0.0027 0.0021,-0.0041 0.0012,-0.0024 0.0026,-0.005 0.0036,-0.0075 5.85e-4,-0.0014 9.99e-4,-0.0029 0.0016,-0.0044 9.32e-4,-0.0025 0.0018,-0.0051 0.0026,-0.0078 4.57e-4,-0.0015 8.92e-4,-0.0031 0.0013,-0.0046 6.55e-4,-0.0025 0.0013,-0.0052 0.0018,-0.0078 3.29e-4,-0.0017 5.13e-4,-0.0035 7.76e-4,-0.0052 3.35e-4,-0.0022 5.48e-4,-0.0045 7.75e-4,-0.0067 2.11e-4,-0.0021 4.03e-4,-0.0041 5.17e-4,-0.0062 9e-6,-1.72e-4 -9e-6,-3.44e-4 0,-5.16e-4 1.14e-4,-0.0022 2.58e-4,-0.0044 2.58e-4,-0.0067 0,-0.0022 -1.45e-4,-0.0045 -2.58e-4,-0.0067 -9e-6,-1.72e-4 9e-6,-3.45e-4 0,-5.17e-4 -1.14e-4,-0.0021 -3.06e-4,-0.0041 -5.17e-4,-0.0062 -1.83e-4,-0.0018 -2.63e-4,-0.0037 -5.17e-4,-0.0054 -6.2e-5,-4.32e-4 -1.92e-4,-8.61e-4 -2.58e-4,-0.0013 -2.68e-4,-0.0017 -4.4e-4,-0.0034 -7.76e-4,-0.0052 -8.4e-5,-4.29e-4 -1.71e-4,-8.63e-4 -2.59e-4,-0.0013 -7.72e-4,-0.0038 -0.0018,-0.0075 -0.0028,-0.01111 -1.54e-4,-5.21e-4 -3.56e-4,-10e-4 -5.17e-4,-0.0016 -0.0011,-0.0036 -0.0022,-0.0072 -0.0036,-0.01059 -2.16e-4,-5.33e-4 -5.52e-4,-10e-4 -7.75e-4,-0.0016 -2.21e-4,-5.21e-4 -5.48e-4,-10e-4 -7.75e-4,-0.0016 -6.47e-4,-0.0015 -0.0014,-0.0029 -0.0021,-0.0044 -6.78e-4,-0.0014 -0.0013,-0.0028 -0.0021,-0.0041 -2.7e-4,-5.13e-4 -4.97e-4,-9.99e-4 -7.75e-4,-0.0016 -7.74e-4,-0.0014 -0.0015,-0.0027 -0.0023,-0.0041 -2.53e-4,-4.28e-4 -5.17e-4,-8.65e-4 -7.75e-4,-0.0013 -0.0022,-0.0036 -0.0047,-0.0072 -0.0072,-0.01059 -0.0011,-0.0015 -0.0022,-0.0029 -0.0034,-0.0044 -1.52e-4,-1.86e-4 -3.64e-4,-3.31e-4 -5.17e-4,-5.17e-4 -0.0013,-0.0015 -0.0025,-0.0032 -0.0039,-0.0046 -8.2e-5,-9.1e-5 -1.77e-4,-1.68e-4 -2.59e-4,-2.59e-4 -0.0014,-0.0016 -0.0029,-0.0032 -0.0044,-0.0047 l -0.0047,-0.0044 -0.921326,-0.921504 c -0.02584,-0.02584 -0.0597,-0.03876 -0.09352,-0.03876 z" /></g><image
@@ -3486,7 +3486,7 @@
      inkscape:label="&quot;unique&quot; bloom"><tspan
        x="217.54005"
        y="21.552301"
-       id="tspan28819">unique</tspan></text><text
+       id="tspan29803">unique</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.11429756,46.723222)"
      id="text8310"
@@ -3496,7 +3496,7 @@
      inkscape:label="&quot;unique&quot;"><tspan
        x="217.54005"
        y="21.552301"
-       id="tspan28821">unique</tspan></text><rect
+       id="tspan29805">unique</tspan></text><rect
      style="fill:url(#linearGradient8390);fill-opacity:1;stroke-width:0.772898;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
      id="rect8374"
      width="135.46666"
@@ -3566,7 +3566,7 @@
      y="0"><tspan
        x="119.90828"
        y="21.552301"
-       id="tspan28823">Same desktop, different</tspan></text><text
+       id="tspan29807">Same desktop, different</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.12064726,210.12787)"
      id="text2800"
@@ -3575,7 +3575,7 @@
      y="0"><tspan
        x="230.70407"
        y="21.552301"
-       id="tspan28825">look</tspan></text><text
+       id="tspan29809">look</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.12064726,210.12787)"
      id="text2182"
@@ -3584,7 +3584,7 @@
      y="0"><tspan
        x="230.70407"
        y="21.552301"
-       id="tspan28827">look</tspan></text><text
+       id="tspan29811">look</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.00317105,226.02717)"
      id="text2388"
@@ -3593,11 +3593,11 @@
      y="0"><tspan
        x="155.73424"
        y="10.776151"
-       id="tspan28829">Gradience does not change the logic,
+       id="tspan29813">Gradience does not change the logic,
 </tspan><tspan
        x="209.93212"
        y="25.776151"
-       id="tspan28831">it changes colors</tspan></text><rect
+       id="tspan29815">it changes colors</tspan></text><rect
      style="fill:#3d3846;stroke-width:0.549142;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
      id="rect2648"
      width="135.46666"
@@ -3615,7 +3615,7 @@
      y="0"><tspan
        x="168.24416"
        y="21.552301"
-       id="tspan28833">A wide range of</tspan></text><text
+       id="tspan29817">A wide range of</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.12064726,268.33624)"
      id="text2782"
@@ -3624,7 +3624,7 @@
      y="0"><tspan
        x="209.54809"
        y="21.552301"
-       id="tspan28835">palettes</tspan></text><text
+       id="tspan29819">palettes</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.12064726,268.33624)"
      id="text2660"
@@ -3633,7 +3633,7 @@
      y="0"><tspan
        x="209.54809"
        y="21.552301"
-       id="tspan28837">palettes</tspan></text><text
+       id="tspan29821">palettes</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,-0.00317105,284.23554)"
      id="text2664"
@@ -3642,11 +3642,11 @@
      y="0"><tspan
        x="157.20422"
        y="10.776151"
-       id="tspan28839">Select from huge amount of popular
+       id="tspan29823">Select from huge amount of popular
 </tspan><tspan
        x="166.1562"
        y="25.776151"
-       id="tspan28841">color schemes or share your own</tspan></text><text
+       id="tspan29825">color schemes or share your own</tspan></text><text
      xml:space="preserve"
      transform="scale(0.26458333)"
      id="text4547"
@@ -3667,7 +3667,7 @@
      y="0"><tspan
        x="146.0442"
        y="21.552301"
-       id="tspan28843">Ready for theming?</tspan></text><g
+       id="tspan29827">Ready for theming?</tspan></text><g
      id="g6240"
      transform="translate(43.391665,318.55853)"
      inkscape:label="&quot;Get Gradience&quot; button"><rect
@@ -3687,7 +3687,7 @@
        y="0"><tspan
          x="54.268905"
          y="264.009"
-         id="tspan28845">Get Gradience</tspan></text></g><path
+         id="tspan29829">Get Gradience</tspan></text></g><path
      d="m 21.980878,378.96427 c 3.179889,0.005 6.066309,1.85851 7.391212,4.74933 a 6.1071091,6.1071091 0 0 1 2.784858,-0.67902 c 3.211934,0.005 5.871688,2.49482 6.085278,5.69958 h 0.02068 c 2.24808,0 4.070428,1.82235 4.070428,4.07044 0,2.24808 -1.822478,4.07044 -4.070557,4.07044 H 15.46809 a 4.8847651,4.8847651 0 0 1 -4.884757,-4.88453 4.8847651,4.8847651 0 0 1 3.270805,-4.60479 8.5601716,8.5601716 0 0 1 -0.01448,-0.27973 c 0,-4.49617 3.6448,-8.141 8.14109,-8.141 z"
      id="path10"
      style="fill:url(#linearGradient22);stroke-width:0.149256"
@@ -3756,14 +3756,14 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';white-space:pre;shape-inside:url(#rect7421);display:inline;fill:#deddda;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="24"
        y="1335.1841"
-       id="tspan28847">Catppuccin Latte</tspan></text><text
+       id="tspan29831">Catppuccin Latte</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,0,-30.691663)"
      id="text7427"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Cantarell;-inkscape-font-specification:Cantarell;white-space:pre;shape-inside:url(#rect7429);display:inline;fill:#deddda;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="24"
        y="1333.3881"
-       id="tspan28849">Light shade of Catppuccin</tspan></text><rect
+       id="tspan29833">Light shade of Catppuccin</tspan></text><rect
      style="fill:#77767b;fill-opacity:1;stroke-width:0.651283;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
      id="rect7481"
      width="33.86668"
@@ -3778,18 +3778,18 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';white-space:pre;shape-inside:url(#rect7497);display:inline;fill:#deddda;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="24"
        y="1335.1841"
-       id="tspan28851">Nord</tspan></text><text
+       id="tspan29835">Nord</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,38.100002,-30.691663)"
      id="text7495"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Cantarell;-inkscape-font-specification:Cantarell;white-space:pre;shape-inside:url(#rect7499);display:inline;fill:#deddda;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="24"
        y="1333.3881"
-       id="tspan28853">Nordic, pleasent to eye
+       id="tspan29837">Nordic, pleasent to eye
 </tspan><tspan
        x="24"
        y="1340.8881"
-       id="tspan28855">color scheme</tspan></text><rect
+       id="tspan29839">color scheme</tspan></text><rect
      style="fill:#77767b;fill-opacity:1;stroke-width:0.651283;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
      id="rect7623"
      width="33.86668"
@@ -3804,14 +3804,14 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';white-space:pre;shape-inside:url(#rect7641);display:inline;fill:#deddda;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="24"
        y="1335.1841"
-       id="tspan28857">Gruvbox</tspan></text><text
+       id="tspan29841">Gruvbox</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,76.2,-30.691663)"
      id="text7637"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Cantarell;-inkscape-font-specification:Cantarell;white-space:pre;shape-inside:url(#rect7643);display:inline;fill:#deddda;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="24"
        y="1333.3881"
-       id="tspan28859">Groovy Retro color scheme</tspan></text><rect
+       id="tspan29843">Groovy Retro color scheme</tspan></text><rect
      style="fill:#77767b;fill-opacity:1;stroke-width:0.651283;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
      id="rect7747"
      width="33.86668"
@@ -3826,14 +3826,14 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';white-space:pre;shape-inside:url(#rect7765);display:inline;fill:#deddda;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="24"
        y="1335.1841"
-       id="tspan28861">Solarized</tspan></text><text
+       id="tspan29845">Solarized</tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458333,114.3,-30.691663)"
      id="text7761"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Cantarell;-inkscape-font-specification:Cantarell;white-space:pre;shape-inside:url(#rect7767);display:inline;fill:#deddda;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"><tspan
        x="24"
        y="1333.3881"
-       id="tspan28863">Timeless classic</tspan></text><path
+       id="tspan29847">Timeless classic</tspan></text><path
      id="rect9348"
      style="fill:#fafafa;fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
      d="m -25.40001,321.73333 h -8.466666 v 2.23346 c 0,1.10799 0.891879,1.99987 1.999878,1.99987 h 4.46691 c 1.107999,0 1.999878,-0.89188 1.999878,-1.99987 z" /><path
@@ -3930,7 +3930,7 @@
        y="0"><tspan
          x="50.961662"
          y="264.009"
-         id="tspan28865">Explore themes</tspan></text><path
+         id="tspan29849">Explore themes</tspan></text><path
        id="path15845"
        style="fill:#deddda;stroke-width:0.132277"
        d="m 71.966596,61.912833 c -0.03385,0 -0.0677,0.01292 -0.09353,0.03876 -0.05169,0.05168 -0.05169,0.135371 0,0.18704 l 0.700165,0.700104 h -1.532614 c -0.07286,0 -0.132282,0.05942 -0.132282,0.132271 0,0.07285 0.05942,0.13227 0.132282,0.13227 h 1.532614 l -0.700165,0.700106 c -0.05169,0.05167 -0.05169,0.135371 0,0.187039 0.05167,0.05168 0.135383,0.05168 0.187055,0 l 0.921326,-0.921504 c 0.0016,-0.0014 0.0032,-0.0029 0.0047,-0.0044 0.0015,-0.0015 0.003,-0.0031 0.0044,-0.0047 8.1e-5,-8.9e-5 1.78e-4,-1.69e-4 2.59e-4,-2.58e-4 0.0014,-0.0015 0.0026,-0.0031 0.0039,-0.0047 1.57e-4,-1.9e-4 3.61e-4,-3.26e-4 5.17e-4,-5.17e-4 0.0012,-0.0014 0.0022,-0.0029 0.0034,-0.0044 0.0026,-0.0034 0.005,-0.007 0.0072,-0.01059 2.66e-4,-4.38e-4 5.13e-4,-8.5e-4 7.75e-4,-0.0013 8.13e-4,-0.0014 0.0016,-0.0027 0.0023,-0.0041 2.79e-4,-5.11e-4 5.04e-4,-0.001 7.75e-4,-0.0016 7.21e-4,-0.0014 0.0014,-0.0027 0.0021,-0.0041 0.0012,-0.0024 0.0026,-0.005 0.0036,-0.0075 5.85e-4,-0.0014 9.99e-4,-0.0029 0.0016,-0.0044 9.32e-4,-0.0025 0.0018,-0.0051 0.0026,-0.0078 4.57e-4,-0.0015 8.92e-4,-0.0031 0.0013,-0.0046 6.55e-4,-0.0025 0.0013,-0.0052 0.0018,-0.0078 3.29e-4,-0.0017 5.13e-4,-0.0035 7.76e-4,-0.0052 3.35e-4,-0.0022 5.48e-4,-0.0045 7.75e-4,-0.0067 2.11e-4,-0.0021 4.03e-4,-0.0041 5.17e-4,-0.0062 9e-6,-1.72e-4 -9e-6,-3.44e-4 0,-5.16e-4 1.14e-4,-0.0022 2.58e-4,-0.0044 2.58e-4,-0.0067 0,-0.0022 -1.45e-4,-0.0045 -2.58e-4,-0.0067 -9e-6,-1.72e-4 9e-6,-3.45e-4 0,-5.17e-4 -1.14e-4,-0.0021 -3.06e-4,-0.0041 -5.17e-4,-0.0062 -1.83e-4,-0.0018 -2.63e-4,-0.0037 -5.17e-4,-0.0054 -6.2e-5,-4.32e-4 -1.92e-4,-8.61e-4 -2.58e-4,-0.0013 -2.68e-4,-0.0017 -4.4e-4,-0.0034 -7.76e-4,-0.0052 -8.4e-5,-4.29e-4 -1.71e-4,-8.63e-4 -2.59e-4,-0.0013 -7.72e-4,-0.0038 -0.0018,-0.0075 -0.0028,-0.01111 -1.54e-4,-5.21e-4 -3.56e-4,-10e-4 -5.17e-4,-0.0016 -0.0011,-0.0036 -0.0022,-0.0072 -0.0036,-0.01059 -2.16e-4,-5.33e-4 -5.52e-4,-10e-4 -7.75e-4,-0.0016 -2.21e-4,-5.21e-4 -5.48e-4,-10e-4 -7.75e-4,-0.0016 -6.47e-4,-0.0015 -0.0014,-0.0029 -0.0021,-0.0044 -6.78e-4,-0.0014 -0.0013,-0.0028 -0.0021,-0.0041 -2.7e-4,-5.13e-4 -4.97e-4,-9.99e-4 -7.75e-4,-0.0016 -7.74e-4,-0.0014 -0.0015,-0.0027 -0.0023,-0.0041 -2.53e-4,-4.28e-4 -5.17e-4,-8.65e-4 -7.75e-4,-0.0013 -0.0022,-0.0036 -0.0047,-0.0072 -0.0072,-0.01059 -0.0011,-0.0015 -0.0022,-0.0029 -0.0034,-0.0044 -1.52e-4,-1.86e-4 -3.64e-4,-3.31e-4 -5.17e-4,-5.17e-4 -0.0013,-0.0015 -0.0025,-0.0032 -0.0039,-0.0046 -8.2e-5,-9.1e-5 -1.77e-4,-1.68e-4 -2.59e-4,-2.59e-4 -0.0014,-0.0016 -0.0029,-0.0032 -0.0044,-0.0047 l -0.0047,-0.0044 -0.921326,-0.921504 c -0.02584,-0.02584 -0.0597,-0.03876 -0.09352,-0.03876 z" /></g></svg>
