@@ -5,4 +5,4 @@
 
 Ask [@GradienceTeam/Design](https://github.com/orgs/GradienceTeam/teams/design)
 
-![Pixels](README.gif)
+![Pixels](PIXELS.gif)
