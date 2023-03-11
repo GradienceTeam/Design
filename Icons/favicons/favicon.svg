@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg16"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs20" />
+  <g
+     id="g762"
+     transform="translate(-160,-172)"
+     fill="currentColor">
+    <path
+       id="rect491"
+       d="m 163,172 c -1.662,0 -3,1.338 -3,3 v 2 c 0,1.662 1.338,3 3,3 h 10 c 1.662,0 3,-1.338 3,-3 v -2 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 10 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 z"
+       style="fill:#000000" />
+    <rect
+       style="fill:#000000"
+       id="rect755"
+       width="9"
+       height="2"
+       x="167"
+       y="181"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#000000"
+       id="rect757"
+       width="2"
+       height="7"
+       x="167"
+       y="181"
+       rx="1"
+       ry="1" />
+  </g>
+  <style>
+  path, g { fill: #000000; }
+  @media (prefers-color-scheme: dark) { path, g { fill: #ffffff; }
+  }
+  </style>
+</svg>
