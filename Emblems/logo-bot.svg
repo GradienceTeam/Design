@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256"><defs><linearGradient id="a" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" style="stop-color:#3584e4;stop-opacity:1"/><stop offset="100%" style="stop-color:#8ff0a4;stop-opacity:1"/></linearGradient><filter id="c"><feColorMatrix in="SourceGraphic" values="0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0"/></filter><svg xmlns="http://www.w3.org/2000/svg" id="b" width="16" height="16" viewBox="0 0 16 16"><path fill="#2e3436" d="M1.5 0C.676 0 0 .676 0 1.5S.676 3 1.5 3c.645 0 1.2-.418 1.41-.996L4.691 2l.364.719a.503.503 0 0 0 .672.222.508.508 0 0 0 .25-.289.52.52 0 0 0-.028-.382L5.31 1l-2.395.004A1.514 1.514 0 0 0 1.5 0zM9 0v1H8v1H7v1h1v1H7v1h1v1H7v1h1v1h1v1h1V8h1v1h1V8h1v1h1V8h1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h-1V0h-1v1h-1V0h-1v1h-1V0zM1.5 1c.281 0 .5.219.5.5s-.219.5-.5.5-.5-.219-.5-.5.219-.5.5-.5zM0 4v1h3.223l1.039 1.664h-.004A1.47 1.47 0 0 0 4 7.5C4 8.324 4.676 9 5.5 9S7 8.324 7 7.5a1.506 1.506 0 0 0-1.93-1.438L3.777 4zm0 3v1h1.73l2 3h.958l.718 1.48a1.5 1.5 0 0 0-.32.52H4.27l-2-3H0v1h1.73l2 3h1.356c.21.578.766 1 1.414 1 .824 0 1.5-.676 1.5-1.5a1.506 1.506 0 0 0-1.71-1.484L5.796 11H7.71l.797 1.379A1.493 1.493 0 0 0 8 13.5c0 .824.676 1.5 1.5 1.5s1.5-.676 1.5-1.5-.676-1.5-1.5-1.5c-.02 0-.035 0-.055.004L8.867 11h1.844l.8 1.375c-.312.277-.511.68-.511 1.125 0 .824.676 1.5 1.5 1.5s1.5-.676 1.5-1.5-.676-1.5-1.5-1.5c-.016 0-.035 0-.05.004L11.866 11h1.219c.21.578.766 1 1.414 1 .824 0 1.5-.676 1.5-1.5S15.324 9 14.5 9c-.648 0-1.203.422-1.414 1H4.27l-2-3zm5.5 0c.281 0 .5.219.5.5s-.219.5-.5.5-.5-.219-.5-.5.219-.5.5-.5zm9 3c.281 0 .5.219.5.5s-.219.5-.5.5-.5-.219-.5-.5.219-.5.5-.5zm-8 3c.281 0 .5.219.5.5s-.219.5-.5.5-.5-.219-.5-.5.219-.5.5-.5zm3 0c.281 0 .5.219.5.5s-.219.5-.5.5-.5-.219-.5-.5.219-.5.5-.5zm3 0c.281 0 .5.219.5.5s-.219.5-.5.5-.5-.219-.5-.5.219-.5.5-.5zm0 0"/></svg></defs><rect width="256" height="256" fill="url(#a)" ry="0"/><use xlink:href="#b" filter="url(#c)" transform="matrix(8 0 0 8 64 64)"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="Gradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" style="stop-color:#DC8ADD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9141AC;stop-opacity:1" />
+    </linearGradient>
+    <filter id="alpha-to-white">
+      <feColorMatrix in="SourceGraphic" type="matrix"
+                     values="0 0 0 1 0
+                             0 0 0 1 0
+                             0 0 0 1 0
+                             0 0 0 1 0"/>
+    </filter>
+    <g id="child-svg"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="#222" d="M8.475 0a.497.497 0 0 0-.276.1L6.5 1.375 4.8.1a.5.5 0 0 0-.37-.094A.5.5 0 0 0 4.2.9L6 2.25V4H3C1.338 4 0 5.338 0 7v6c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3V7c0-1.662-1.338-3-3-3H7V2.25L8.8.9a.5.5 0 0 0-.325-.9zM3 6h10c.554 0 1 .446 1 1v6c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1V7c0-.554.446-1 1-1zm2 1a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm6 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zM5 8a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1zm6 0a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1zm-4.5 4a.499.499 0 1 0 0 1h3a.499.499 0 1 0 0-1z"/></svg></g>
+  </defs>
+  <rect
+      width="256"
+      height="256"
+      fill="url(#Gradient)"
+      ry="0"
+      x="0"
+      y="0" />
+  <use xlink:href="#child-svg" filter="url(#alpha-to-white)"
+       transform="matrix(8,0,0,8,64,64)" />
+</svg>
